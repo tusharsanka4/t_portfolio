@@ -1,4 +1,4 @@
-export const name = "Mithilesh";
+export const name = "Tushar";
 export const title = "Founder of this Repo";
 export const email = "Mitumithilesh2@gmail.com";
 export const github = "https://github.com/kingsmen732";
